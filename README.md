@@ -9,3 +9,5 @@ after that open command line and do `pip install windows-curses` if you're on a 
 then literally just download the `main.py` file and open it in a terminal using `python3 main.py`/`python main.py` if you're on windows. or whatever works 
 
 all the directions are in the game. heart emoji
+
+![screenshot of the game](eksample.png)
